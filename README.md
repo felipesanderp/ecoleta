@@ -8,9 +8,7 @@
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/felipesanderp/ecoleta.svg">
   
-  <a href="https://www.codefactor.io/repository/github/felipesanderp/ecoleta">
-    <img alt="Codacy grade" src=" https://img.shields.io/codefactor/grade/github/felipesanderp/ecoleta/master">
-  </a>
+<a href="https://www.codefactor.io/repository/github/felipesanderp/ecoleta"><img src="https://www.codefactor.io/repository/github/felipesanderp/ecoleta/badge" alt="CodeFactor" /></a>
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/felipesanderp/ecoleta.svg">
   <a href="https://github.com/felipesanderp/ecoleta/commits/master">
