@@ -21,7 +21,7 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/felipesanderp/ecoleta.svg">
   </a>
 
-  <img alt="GitHub" src="https://img.shields.io/github/license/felipesanderp/ecoleta.svg">
+  <img alt="GitHub" src="https://img.shields.io/github/license/felipesanderp/ecoleta">
 </p>
 
 ## :memo: License
