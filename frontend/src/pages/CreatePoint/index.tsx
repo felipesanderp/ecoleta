@@ -111,7 +111,7 @@ const CreatePoint:React.FC = () => {
 
           <div className="field">
             <label htmlFor="name">Nome da entidade</label>
-            <input 
+            <input
               type="text"
               name="name"
               id="name"
@@ -121,7 +121,7 @@ const CreatePoint:React.FC = () => {
           <div className="field-group">
             <div className="field">
               <label htmlFor="email">E-mail</label>
-                <input 
+                <input
                   type="email"
                   name="email"
                   id="email"
@@ -129,7 +129,7 @@ const CreatePoint:React.FC = () => {
             </div>
             <div className="field">
               <label htmlFor="whatsapp">WhatsApp</label>
-                <input 
+                <input
                   type="text"
                   name="whatsapp"
                   id="whatsapp"
