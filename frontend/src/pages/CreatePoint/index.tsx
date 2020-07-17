@@ -156,10 +156,10 @@ const CreatePoint:React.FC = () => {
           <div className="field-group">
             <div className="field">
               <label htmlFor="uf">Estado (UF)</label>
-              <select 
-                name="uf" 
-                id="uf" 
-                value={selectedUf} 
+              <select
+                name="uf"
+                id="uf"
+                value={selectedUf}
                 onChange={handleSelectUf}
               >
                 <option value="0">Selecione uma UF</option>
@@ -170,8 +170,8 @@ const CreatePoint:React.FC = () => {
             </div>
             <div className="field">
               <label htmlFor="city">Cidade</label>
-              <select 
-                name="city" 
+              <select
+                name="city"
                 id="city"
                 value={selectedCity}
                 onChange={handleSelectCity}
