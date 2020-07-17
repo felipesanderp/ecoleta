@@ -38,7 +38,7 @@ class PointsController {
   }
 
   async create(request: Request, response: Response) {
-    const { 
+    const {
       name,
       email,
       whatsapp,
