@@ -34,10 +34,51 @@
 
 This project was developed at the first [Rocketseat Next Level Week #NLW](https://blog.rocketseat.com.br/primeira-next-level-week/) with the following technologies:
 
+- [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
 - [Knex.js](http://knexjs.org/)
 - [ReactJS](https://reactjs.org/)
+- [Leaflet](https://leafletjs.com/)
+- [React Leaflet](https://react-leaflet.js.org/)
+- [Axios](https://github.com/axios/axios)
+- [react-icons](https://github.com/react-icons/react-icons)
 - [VSCode](https://code.visualstudio.com/)
+
+## :information_source: How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com), [Node.js v10.16](https://nodejs.org/) or higher + [Yarn v1.13](https://yarnpkg.com/) or higher installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/felipesanderp/ecoleta
+
+# Go into the repository
+$ cd ecoleta
+
+# Go into the backend repository
+$ cd backend
+
+# Install dependencies
+$ yarn
+
+# Create database
+$ yarn knex:migrate
+
+# Populate the items table
+$ yarn knex:seed
+
+# Start the backend development server on port 3333
+$ yarn dev:server
+
+# On another terminal, go to the frontend folder
+$ cd ../frontend
+
+# Install dependencies
+$ yarn
+
+# Start the frontend development server on port 3000
+$ yarn start
+```
 
 ## :memo: License
 This project is under the MIT license. See the [LICENSE](https://github.com/felipesanderp/ecoleta/blob/master/LICENSE) for more information.
